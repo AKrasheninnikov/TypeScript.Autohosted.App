@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" dslVersion="1.0.0.0" Id="a7cdbb00-0046-45b7-80af-6834896d16c5" solutionId="a7cdbb00-0046-45b7-80af-6834896d16c5" resetWebServer="false" name="TypeScript.Autohosted.App" xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel">
+  <features>
+    <featureReference itemId="8e450fb9-d317-4167-927a-a8f8a41f04ef" />
+  </features>
+</package>

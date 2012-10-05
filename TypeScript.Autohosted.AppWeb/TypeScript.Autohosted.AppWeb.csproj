@@ -44,6 +44,7 @@
     <Content Include="index.html" />
     <TypeScriptCompile Include="js\todos.ts" />
     <Content Include="js\ChromeControl.js" />
+    <Content Include="js\CrossDomainExec.js" />
     <Content Include="js\file1.js">
       <DependentUpon>todos.ts</DependentUpon>
     </Content>
